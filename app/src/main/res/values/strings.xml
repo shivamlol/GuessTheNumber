@@ -3,4 +3,6 @@
     <string name="guess_the_number">GUESS THE NUMBER</string>
     <string name="enter_your_username">Enter Your Username</string>
     <string name="enter_here">Enter Here</string>
+    <string name="lets_begin">Lets Begin!!</string>
+    <string name="about_game">About Game</string>
 </resources>
