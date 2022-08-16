@@ -7,4 +7,5 @@
     <string name="about_game">About Game</string>
     <string name="enter_your_guess">Enter Your Guess</string>
     <string name="guess">Guess</string>
+    <string name="about">ABOUT:</string>
 </resources>
