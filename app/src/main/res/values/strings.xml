@@ -8,4 +8,9 @@
     <string name="enter_your_guess">Enter Your Guess</string>
     <string name="guess">Guess</string>
     <string name="about">ABOUT:</string>
+    <string name="using_the_prompts_of_the_program">Using the prompts of the program ,</string>
+    <string name="you_must_guess_the_number">you must guess the number</string>
+    <string name="contact">CONTACT:</string>
+    <string name="gmail_shivamchaurasia2912_gmail_com">Gmail : shivamchaurasia2912@gmail.com</string>
+    <string name="github_shivamlol">GitHub : shivamlol</string>
 </resources>
